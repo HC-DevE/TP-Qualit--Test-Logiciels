@@ -6,3 +6,4 @@ ${PASSWORD}             admin123
 ${FIRSTNAME}            darkhc
 ${LASTNAME}             dev
 ${EMPLOYEE_NAME}        ${FIRSTNAME} ${LASTNAME}
+${EMPLOYEE_PASSWORD}    secure@PWD&1

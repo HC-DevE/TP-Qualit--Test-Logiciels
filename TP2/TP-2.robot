@@ -4,8 +4,8 @@ Documentation       Employee Management Test Case
 Library    SeleniumLibrary
 Library    String
 
-Resource    keyword-TP1.robot
-Resource    variables-TP1.robot
+Resource    keyword-TP2.robot
+Resource    variables-TP2.robot
 
 
 *** Test Cases ***
