@@ -48,6 +48,7 @@ I modify the information of the searched user
     Wait Until Page Contains Element    //button[contains(@class, "oxd-icon-button") and .//i[contains(@class, "bi-pencil-fill")]]
     Click Element    //button[contains(@class, "oxd-icon-button") and .//i[contains(@class, "bi-pencil-fill")]]
     Wait Until Page Contains Element    //button[@type="submit"]
+    # Ici pour modifier les informations de l'utilisateur
     Click Button    //button[@type="submit"]
 
 I delete the modified user
